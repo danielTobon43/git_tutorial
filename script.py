@@ -7,4 +7,5 @@ if __name__ == '__main__':
     print("-> second line + third")
     print("-> third line")
     print("-> four line")
+    print("-> fith line")
 
